@@ -1,0 +1,14 @@
+{
+  "name": "jest-romano",
+  "version": "1.0.0",
+  "description": "jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "caro",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
